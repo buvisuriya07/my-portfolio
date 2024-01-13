@@ -1,0 +1,72 @@
+.skills{
+    background: linear-gradient(180deg,#0c0c1d,#111132);
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+
+    .textContainer{
+        flex: 1;
+        align-self: flex-end;
+        display: flex;
+        align-items: center;
+        gap: 20px;
+
+       
+    }
+    .titleContainer{
+         flex:2;
+         display: flex;
+         flex-direction: column;
+         align-items: center;
+       
+        .title{
+            display: flex;
+            align-items: center;
+            gap: 50px;
+
+
+            h1{
+                font-size: 60px;
+                font-weight: 100;
+            }
+           
+        }
+    }
+    .listContainer{
+        flex: 2;
+        display: flex;
+        max-width: 1366px;
+        margin: auto;
+
+        .box{
+            padding: 40px;
+            border: 0.5px solid gray;
+            display: flex;
+            text-align: initial;
+            flex-wrap:wrap;
+            flex-direction: column;
+            gap: 2.5rem;
+            justify-content: space-around;
+            
+
+            h2{
+                padding: 10px;
+                background-color: orange;
+                border: none;
+                cursor: pointer;
+            }
+
+            article{
+                display: flex;
+                width: 10rem;
+                justify-content: space-around;
+                gap: 0.5rem;
+
+                img{
+                    max-width: 50px;
+                    max-height: 50px;
+                }
+            }
+        }
+    }
+}
