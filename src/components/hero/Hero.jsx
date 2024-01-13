@@ -1,5 +1,6 @@
 import './Hero.css';
 import {motion} from 'framer-motion';
+import Contact from '../contact/Contact'
 
  const textVariants={
    initial:{
@@ -37,7 +38,7 @@ const Hero = () => {
                 <motion.button variants={textVariants} >
                   <a href="https://drive.google.com/file/d/1D3Nd0eqJaqvbWXrQzGZRu3LIRYUSivsl/view?usp=sharing" target='_blank'  rel="noreferrer">Download CV</a>
                   </motion.button>
-                <motion.button variants={textVariants}>Contact Me</motion.button>
+      
             </motion.div>
            
         </motion.div>

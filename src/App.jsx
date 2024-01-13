@@ -16,9 +16,9 @@ function App() {
           <Navbar/>
           <Hero/>
          </section>
-         <section id='Services'><Parallex type="Services"/></section>
+         <section id='Skills'><Parallex type="Services"/></section>
          <section><Services/></section>
-         <section id='Portfolio'><Parallex type="Portfolio"/></section>
+         <section id='Project'><Parallex type="Portfolio"/></section>
          <Portfolio/>
          <section id="Contact">
           <Contact/>
