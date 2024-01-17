@@ -26,7 +26,7 @@ const item=[
         img:"https://www.easygosms.com/images/services-img/Bulk-Email-Service.png",
         desc:"Bulk Email Tools utilizes the MERN stack (MongoDB, Express.js, React.js, Node.js) for efficient email campaign management. With features like real-time tracking through Socket.io and secure authentication via JWT, the project ensures a robust and user-friendly solution. Nodemailer and Mongoose further enhance email sending and database interactions for seamless functionality.",
         link:"https://bulk-emailtool.netlify.app/login",
-        links:"	"
+        links:"	https://github.com/buvisuriya07/Bulk-email-project"
     },
   
 ];
