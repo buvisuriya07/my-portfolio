@@ -22,20 +22,13 @@ const item=[
     },
     {
         id:3,
-        title:"three project",
-        img:"https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg",
-        desc:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti explicabo quo nam modi nesciunt illo necessitatibus, deserunt magni laboriosam excepturi, cupiditate voluptatem iste, dolores corporis? Corporis illo ratione voluptas distinctio.",
-        link:"https://main--deft-gumdrop-e7c631.netlify.app/",
-        links:"https://github.com/buvisuriya07/NationalizeAPI.git"
+        title:"Bulk Email Tool",
+        img:"https://www.easygosms.com/images/services-img/Bulk-Email-Service.png",
+        desc:"Bulk Email Tools utilizes the MERN stack (MongoDB, Express.js, React.js, Node.js) for efficient email campaign management. With features like real-time tracking through Socket.io and secure authentication via JWT, the project ensures a robust and user-friendly solution. Nodemailer and Mongoose further enhance email sending and database interactions for seamless functionality.",
+        link:"https://bulk-emailtool.netlify.app/login",
+        links:"	"
     },
-    {
-        id:4,
-        title:"four project",
-        img:"https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg",
-        desc:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti explicabo quo nam modi nesciunt illo necessitatibus, deserunt magni laboriosam excepturi, cupiditate voluptatem iste, dolores corporis? Corporis illo ratione voluptas distinctio.",
-        link:"https://main--deft-gumdrop-e7c631.netlify.app/",
-        links:""
-    }
+  
 ];
 
 
