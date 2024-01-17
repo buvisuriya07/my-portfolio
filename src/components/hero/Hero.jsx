@@ -36,7 +36,7 @@ const Hero = () => {
             <motion.h2 variants={textVariants}>FullStack Web Developer</motion.h2>
             <motion.div  variants={textVariants}className="buttons">
                 <motion.button variants={textVariants} >
-                  <a href="https://drive.google.com/file/d/1D3Nd0eqJaqvbWXrQzGZRu3LIRYUSivsl/view?usp=sharing" target='_blank'  rel="noreferrer">Download CV</a>
+                  <a href="https://drive.google.com/file/d/1NgVe2vmxwWlZF8tg_OyD6esMwfZ11HLg/view?usp=sharing" target='_blank'  rel="noreferrer">Download CV</a>
                   </motion.button>
       
             </motion.div>
